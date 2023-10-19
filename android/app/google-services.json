@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974678885946",
+    "project_id": "bksgold-assignment",
+    "storage_bucket": "bksgold-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974678885946:android:306fbf020f6540af8a5703",
+        "android_client_info": {
+          "package_name": "com.example.bksgold_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11lAA25ocOj9o64oVgyMuD1ft7bSl55s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
